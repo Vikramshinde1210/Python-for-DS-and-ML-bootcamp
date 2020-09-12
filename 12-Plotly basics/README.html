@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+ 
 </head>
 <body>
     <div align="center">
         <h1>Scatter Plots</h1>
-    <iframe src="HTML Files\scatter.html" width="800" height="500"></iframe>
+    <iframe src="HTML Files/scatter.html" width="800" height="500"></iframe>
     <br>
     <iframe src="HTML Files\scatter1.html" width="800" height="500"></iframe>
     <h1>Line Charts</h1>
